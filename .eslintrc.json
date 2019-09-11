@@ -1,0 +1,11 @@
+{
+  "extends": "airbnb",
+  "parser": "babel-eslint",
+  "rules": {
+    "react/react-in-jsx-scope": "off",
+    "react/destructuring-assignment": "off",
+    "no-nested-ternary": "warn",
+    "react/prop-types": "warn",
+    "eslint-disable quotes": "off"
+  }
+}
